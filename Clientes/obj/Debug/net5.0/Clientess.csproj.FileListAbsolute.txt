@@ -1,0 +1,7 @@
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.csproj.AssemblyReference.cache
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.AssemblyInfoInputs.cache
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.AssemblyInfo.cs
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.csproj.CoreCompileInputs.cache
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Clientes\obj\Debug\net5.0\Clientess.MvcApplicationPartsAssemblyInfo.cache
