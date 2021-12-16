@@ -1,0 +1,7 @@
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.AssemblyInfo.cs
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\PantallaFuncionarios\obj\Debug\net5.0\PantallaFuncionarios.MvcApplicationPartsAssemblyInfo.cache

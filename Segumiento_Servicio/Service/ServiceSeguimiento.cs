@@ -16,17 +16,17 @@ namespace Segumiento_Servicio.Service
             _seguimiento = seguimiento;
         }
 
-        public bool CreateSeguimiento(Seguimiento seguimiento)
+        public bool CreateSeguimiento(seguimiento seguimiento)
         {
             return _seguimiento.CreateSeguimiento(seguimiento);
         }
 
-        public IEnumerable<Seguimiento> GETALL()
+        public IEnumerable<seguimiento> GETALL()
         {
             return _seguimiento.GETALL();
         }
 
-        public bool UpdateSeguimiento(Seguimiento seguimiento)
+        public bool UpdateSeguimiento(seguimiento seguimiento)
         {
             return _seguimiento.UpdateSeguimiento(seguimiento);
         }

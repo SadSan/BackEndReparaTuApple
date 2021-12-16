@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c8f091b-eb34-4fd0-a892-b7ad28194e93": {
+      "ProjectGuid": "4c8f091b-eb34-4fd0-a892-b7ad28194e93",
+      "DisplayName": "Login",
+      "ColorIndex": 0
+    },
+    "89b3bed7-7f94-40ca-8cf7-51eadfc8700b": {
+      "ProjectGuid": "89b3bed7-7f94-40ca-8cf7-51eadfc8700b",
+      "DisplayName": "Segumiento_Servicio_cliente",
+      "ColorIndex": 1
+    },
+    "fe856f51-0315-4456-ba43-e748e1e67ddd": {
+      "ProjectGuid": "fe856f51-0315-4456-ba43-e748e1e67ddd",
+      "DisplayName": "CambiaContrasena",
+      "ColorIndex": 2
+    },
+    "a11a63d3-fc31-4c22-9c53-c92fe547aff3": {
+      "ProjectGuid": "a11a63d3-fc31-4c22-9c53-c92fe547aff3",
+      "DisplayName": "ClientesReparatuApple",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "78ab4b36-e982-4531-8bc4-f9aa9ab4f538": {
+      "ProjectGuid": "78ab4b36-e982-4531-8bc4-f9aa9ab4f538",
+      "DisplayName": "Usuarios",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

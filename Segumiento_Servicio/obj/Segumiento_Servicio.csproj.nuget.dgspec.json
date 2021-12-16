@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Software Engineer\\Source\\Repos\\AngieRoj\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj": {}
+    "C:\\Users\\Software Engineer\\source\\repos\\ReparaTuApple\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Software Engineer\\Source\\Repos\\AngieRoj\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj": {
+    "C:\\Users\\Software Engineer\\source\\repos\\ReparaTuApple\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Software Engineer\\Source\\Repos\\AngieRoj\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj",
+        "projectUniqueName": "C:\\Users\\Software Engineer\\source\\repos\\ReparaTuApple\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj",
         "projectName": "Segumiento_Servicio",
-        "projectPath": "C:\\Users\\Software Engineer\\Source\\Repos\\AngieRoj\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj",
+        "projectPath": "C:\\Users\\Software Engineer\\source\\repos\\ReparaTuApple\\ReparaTuApple\\Segumiento_Servicio\\Segumiento_Servicio.csproj",
         "packagesPath": "C:\\Users\\Software Engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Software Engineer\\Source\\Repos\\AngieRoj\\ReparaTuApple\\Segumiento_Servicio\\obj\\",
+        "outputPath": "C:\\Users\\Software Engineer\\source\\repos\\ReparaTuApple\\ReparaTuApple\\Segumiento_Servicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

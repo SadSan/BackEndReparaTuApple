@@ -1,3 +1,4 @@
+using Amazon.S3.Model;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -19,10 +20,12 @@ namespace Usuarios
 {
     public class Startup
     {
+        readonly string CorsConfiguration = "_corsConfiguration";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
+
 
         public IConfiguration Configuration { get; }
 
@@ -30,6 +33,7 @@ namespace Usuarios
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -54,6 +58,12 @@ namespace Usuarios
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseCors(options =>
+            {
+                options.WithOrigins("http://localhost:4200");
+                options.AllowAnyMethod();
+                options.AllowAnyHeader();
+            }); 
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -64,6 +74,7 @@ namespace Usuarios
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseCors(CorsConfiguration);
 
             app.UseEndpoints(endpoints =>
             {

@@ -16,19 +16,19 @@ namespace Segumiento_Servicio.Repository
             _contextDatabase = contextDatabase;
         }
 
-        public bool CreateSeguimiento(Seguimiento seguimiento)
+        public bool CreateSeguimiento(seguimiento seguimiento)
         {
             _contextDatabase.seguimiento.Add(seguimiento);
             _contextDatabase.SaveChanges();
             return true;
         }
 
-        public IEnumerable<Seguimiento> GETALL()
+        public IEnumerable<seguimiento> GETALL()
         {
             return _contextDatabase.seguimiento.AsNoTracking().ToList();
         }
 
-        public bool UpdateSeguimiento(Seguimiento seguimiento)
+        public bool UpdateSeguimiento(seguimiento seguimiento)
         {
             _contextDatabase.seguimiento.Update(seguimiento);
             _contextDatabase.SaveChanges();

@@ -1,0 +1,36 @@
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.deps.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.pdb
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.AssemblyReference.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfoInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfo.cs
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.pdb
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.deps.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.pdb
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.pdb
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.deps.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\bin\Debug\net5.0\Cross.Jwt.pdb
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.AssemblyReference.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfoInputs.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.AssemblyInfo.cs
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\ref\Cross.Jwt.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Cross.Jwt\obj\Debug\net5.0\Cross.Jwt.pdb

@@ -45,7 +45,9 @@ namespace Usuarios.Controllers
         {
             try
             {
-                if (insert.cedula != null)
+                var Cedula = _contextDatabase.usuarios.Any(x => x.cedula == insert.cedula);
+
+                if (Cedula == false)
                 {
 
                     var encryp = new Encryption();
@@ -75,7 +77,7 @@ namespace Usuarios.Controllers
 
                 else
                 {
-                    return BadRequest(0);
+                    return BadRequest(5);
                 }
 
             }

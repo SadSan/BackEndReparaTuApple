@@ -8,10 +8,10 @@ namespace Segumiento_Servicio.Service
 {
     public interface IServiceSeguimiento
     {
-        IEnumerable<Seguimiento> GETALL();
+        IEnumerable<seguimiento> GETALL();
 
-        bool CreateSeguimiento(Seguimiento seguimiento);
+        bool CreateSeguimiento(seguimiento seguimiento);
 
-        bool UpdateSeguimiento(Seguimiento seguimiento);
+        bool UpdateSeguimiento(seguimiento seguimiento);
     }
 }

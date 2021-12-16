@@ -1,19 +1,13 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Segumiento_Servicio.Models.BD;
 using Segumiento_Servicio.Repository;
 using Segumiento_Servicio.Service;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Segumiento_Servicio
 {
@@ -29,19 +23,24 @@ namespace Segumiento_Servicio
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers().AddNewtonsoftJson();
 
-            services.AddControllers();
+
+            //services.AddMemoryCache();
+            // services.AddControllers();
+            services.AddDistributedMemoryCache();
             services.AddSwaggerGen(c =>
+
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Segumiento_Servicio", Version = "v1" });
             });
 
             services.AddDbContext<ContextDatabase>(
 
-               options =>
-               {
-                   options.UseMySQL(Configuration["mysql:cn"]);
-               });
+                options =>
+                {
+                    options.UseMySQL(Configuration["mysql:cn"]);
+                });
 
             services.AddScoped<IServiceSeguimiento, ServiceSeguimiento>();
             services.AddScoped<IRepositorySeguimiento, RepositorySeguimiento>();
@@ -52,6 +51,13 @@ namespace Segumiento_Servicio
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseCors(options =>
+            {
+                options.WithOrigins("http://localhost:4200");
+                options.AllowAnyMethod();
+                options.AllowAnyHeader();
+            });
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -59,8 +65,8 @@ namespace Segumiento_Servicio
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Segumiento_Servicio v1"));
             }
 
+            app.UseHttpsRedirection();
             app.UseRouting();
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

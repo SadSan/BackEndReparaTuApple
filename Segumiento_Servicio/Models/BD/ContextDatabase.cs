@@ -8,6 +8,6 @@ namespace Segumiento_Servicio.Models.BD
         {
         }
 
-        public DbSet<Seguimiento> seguimiento { get; set; }
+        public DbSet<seguimiento> seguimiento { get; set; }
     }
 }

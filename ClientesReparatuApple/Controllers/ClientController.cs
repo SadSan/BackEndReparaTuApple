@@ -55,13 +55,12 @@ namespace ClientesReparatuApple.Controllers
                         passwords = nueva,
                         tipo_documento = insert.tipo_documento,
                         correo_cliente = insert.correo_cliente,
-                        fecha_nacimiento = insert.fecha_nacimiento,
                         Acepto_Registro = insert.Acepto_Registro,
                         terminos_condiciones = insert.terminos_condiciones,
                         telefono_cliente = insert.telefono_cliente,
                         telefono2_cliente = insert.telefono2_cliente,
-                        fecha_creacion = DateTime.Now,
-                       fecha_actualizacion = DateTime.Now
+                        fecha_creacion_cli = DateTime.Now,
+                       fecha_nacimiento_cli = insert.fecha_nacimiento
                     };
 
                     _serviceClient.CreateClient(NewUser);
@@ -105,7 +104,7 @@ namespace ClientesReparatuApple.Controllers
 
                     var CREATED_ADS = _contextDatabase.customers
                             .Where(a => a.Id_cliente == update.Id_cliente)
-                            .Select(a => a.fecha_creacion)
+                            .Select(a => a.fecha_nacimiento_cli)
                             .FirstOrDefault();
 
                     Models.BD.customers NewUser = new Models.BD.customers()
@@ -116,13 +115,13 @@ namespace ClientesReparatuApple.Controllers
                         passwords = nueva,
                         tipo_documento = update.tipo_documento,
                         correo_cliente = update.correo_cliente,
-                        fecha_nacimiento = update.fecha_nacimiento,
+                        fecha_nacimiento_cli = update.fecha_nacimiento_cli,
                         Acepto_Registro = update.Acepto_Registro,
                         terminos_condiciones = update.terminos_condiciones,
                         telefono_cliente = update.telefono_cliente,
                         telefono2_cliente = update.telefono2_cliente,
-                        fecha_creacion = CREATED_ADS,
-                        fecha_actualizacion = DateTime.Now
+                        fecha_creacion_cli = CREATED_ADS,
+                        fecha_actualizacion_cli = DateTime.Now
                     };
 
                     _serviceClient.CreateClient(NewUser);

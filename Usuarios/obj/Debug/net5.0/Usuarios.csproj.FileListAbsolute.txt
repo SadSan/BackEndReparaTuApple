@@ -55,3 +55,180 @@ C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Usuarios\obj\Debu
 C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Usuarios\obj\Debug\net5.0\ref\Usuarios.dll
 C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.pdb
 C:\Users\Software Engineer\Source\Repos\AngieRoj\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.genruntimeconfig.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.exe
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.deps.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.dev.json
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\ref\Usuarios.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.pdb
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfo.cs
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\staticwebassets\Usuarios.StaticWebAssets.Manifest.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\staticwebassets\Usuarios.StaticWebAssets.xml
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.RazorTargetAssemblyInfo.cache
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CopyComplete
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\ref\Usuarios.dll
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.pdb
+C:\Users\Software Engineer\source\repos\ReparaTuApple\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.exe
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.deps.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\ref\Usuarios.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.pdb
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\staticwebassets\Usuarios.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\staticwebassets\Usuarios.StaticWebAssets.xml
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\ref\Usuarios.dll
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.pdb
+C:\Users\USUARIO\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.genruntimeconfig.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\appsettings.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.StaticWebAssets.xml
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.exe
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.deps.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.runtimeconfig.dev.json
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\ref\Usuarios.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Usuarios.pdb
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\AWSSDK.S3.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.AssemblyInfo.cs
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\staticwebassets\Usuarios.StaticWebAssets.Manifest.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.RazorTargetAssemblyInfo.cache
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.csproj.CopyComplete
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\ref\Usuarios.dll
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.pdb
+C:\Users\Badsan\Documents\Proyecto Julian Mendez\ReparaTuApple\Usuarios\obj\Debug\net5.0\Usuarios.genruntimeconfig.cache
